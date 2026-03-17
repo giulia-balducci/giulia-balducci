@@ -13,7 +13,7 @@ I'm particularly drawn to climate, energy, and environmental data — areas wher
 - PhD in Chemistry — WestCHEM, University of Glasgow
 - Master's in Advanced Chemical Methodologies — University of Bologna (110/110 cum laude)
 - Master's in Specialised Translation (technical, medical, web) — SSIT Pescara (110/110)
-- Publications and patents in solid-state hydrogen storage materials
+- 3 peer-reviewed publications, 3 patents, and conference presentations at ACS and RSC
 - 15+ years combining research and teaching — secondary school science, A-level Chemistry, AS-level Statistics, and private tutoring
 - Strong track record of explaining complex concepts clearly, in English and Italian
 
