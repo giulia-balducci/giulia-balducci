@@ -15,7 +15,7 @@ I'm particularly drawn to climate, energy, and environmental data: areas where r
 - 3 peer-reviewed publications across hydrogen storage and materials chemistry
 - 3 patents in materials chemistry and hydroxyapatite electrodeposition
 - Conference presentations at ACS (Dallas) and RSC (St. Andrews, Bath)
-- Experienced science communicator, A-level Chemistry, AS-level Statistics, KS3 Science, and private tutoring in English and Italian
+- Experienced science communicator: A-level Chemistry, AS-level Statistics, KS3 Science, and private tutoring in English and Italian
 
 ---
 
@@ -33,7 +33,7 @@ My projects focus on real datasets I actually care about: climate records, energ
 |---------|-------------|-------|
 | [🌡️ Land Temperature Trends (1850–2015)](https://github.com/giulia-balducci/land-temperature-trends-1850-2015) | Exploratory analysis and regression modelling of global land surface temperatures — asymmetric warming patterns and greenhouse effect signature | Python, pandas, seaborn, numpy |
 | 🪸 Coral Bleaching Risk Prediction *(in progress)* | ML model for bleaching risk prediction using 40 years of oceanographic data, tested against the 2024 global bleaching event | Python, pandas, scikit-learn |
-| ⚗️ Hydrogen Hydrides ML Project *(coming soon)* | Materials informatics applied to metal hydride systems — directly connected to PhD research | Python, scikit-learn, Materials Project data |
+| ⚗️ Hydrogen Hydrides ML Project *(coming soon)* | Materials informatics applied to metal hydride systems — predicting thermodynamic properties and hydrogen release conditions, directly connected to PhD research | Python, scikit-learn, Materials Project data |
 
 ---
 
@@ -41,11 +41,12 @@ My projects focus on real datasets I actually care about: climate records, energ
 ```python
 languages  = ["Python"]
 libraries  = ["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"]
-ml         = ["linear regression", "random forest", "SVM", 
+ml         = ["linear regression", "random forest", "SVM",
               "decision tree", "clustering (unsupervised)"]
 domain     = ["hydrogen storage", "materials informatics",
               "climate data", "oceanographic datasets",
-              "neutron diffraction", "thermal analysis"]
+              "neutron diffraction", "thermal analysis",
+              "Rietveld refinement (GSAS)"]
 tools      = ["Jupyter", "VSCode", "GitHub", "Claude Code"]
 learning   = ["deep learning", "generative AI", "cloud deployment"]
 ```
