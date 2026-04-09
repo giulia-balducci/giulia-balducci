@@ -2,7 +2,7 @@
 
 I'm a Materials Chemistry PhD bringing deep scientific expertise into data science, with a genuine passion for climate and energy data, code, and machine learning.
 
-My background is in solid-state chemistry and hydrogen storage materials. I've worked with neutron diffraction at ISIS Rutherford Appleton Laboratory, air-sensitive synthesis using Schlenk lines and gloveboxes, and quantitative Rietveld refinements using GSAS. During my PhD, I achieved a ~100 K reduction in hydrogen release onset temperature through nanostructuring of LiOH–MgH₂ systems, and proposed and validated dehydrogenation mechanisms for three hydride-hydroxide systems using combined in-situ neutron diffraction and thermal analysis data.
+My background is in solid-state chemistry and hydrogen storage materials. I worked with air-sensitive synthesis using Schlenk lines and gloveboxes, quantitative Rietveld refinements using GSAS, and neutron diffraction experiments at ISIS Rutherford Appleton Laboratory. During my PhD, I achieved a ~100 K reduction in hydrogen release onset temperature through nanostructuring of LiOH–MgH₂ systems, and proposed and validated dehydrogenation mechanisms for three hydride-hydroxide systems using combined in-situ neutron diffraction, ex-situ powder X-ray diffraction, and thermogravimetric analysis.
 
 What's always driven me is the analytical side: designing experiments, finding patterns in complex data, and communicating results clearly. Now I'm applying those same instincts to data science.
 
