@@ -16,9 +16,6 @@ What has always driven me is the analytical side: designing experiments, finding
 patterns in complex data, and communicating results clearly. That's what I do
 now, with Python instead of lab glassware.
 
-I'm drawn to climate, energy, and environmental data: areas where rigorous
-analysis actually matters.
-
 ---
 
 ## 🔬 Background
