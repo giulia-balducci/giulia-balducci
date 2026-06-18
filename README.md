@@ -37,7 +37,7 @@ now, with Python instead of lab glassware.
 | 🌡️ [Land Temperature Trends (1850-2015)](https://github.com/giulia-balducci/land-temperature-trends-1850-2015) | Exploratory analysis and regression modelling of global land surface temperatures, asymmetric warming patterns and greenhouse effect signature | Python, pandas, seaborn, numpy |
 | 🪸 [Coral Bleaching Risk Prediction](https://github.com/giulia-balducci/coral-bleaching-risk-analysis) | End-to-end ML pipeline predicting Atlantic coral bleaching risk from 40 years of oceanographic data. Random Forest optimised for recall (0.82 on test set), deployed on AWS SageMaker with Streamlit dashboard | Python, scikit-learn, SHAP, AWS SageMaker, Streamlit |
 | 🌿 Greenwashing Detection in Reef-Safe Sunscreen Claims *(repo coming soon)* | NLP project combining RoBERTa sentiment analysis and VADER on Reddit data, anchored by the ACCC vs. Edgewell regulatory case | Python, RoBERTa, VADER, spaCy |
-| ⚗️ Hydrogen Hydrides ML Project *(coming soon)* | Materials informatics applied to metal hydride systems, predicting thermodynamic properties and hydrogen release conditions from PhD research data | Python, scikit-learn, Materials Project |
+| ⚗️ [Hydride Property Prediction](https://github.com/giulia-balducci/hydride-property-prediction) | Materials informatics applied to metal hydride systems: Random Forest (R²=0.765) predicts hydrogen storage capacity; honest failure documented for desorption temperature prediction (RMSE=87°C, insufficient data) | Python, scikit-learn, SHAP, chemparse | | Materials informatics applied to metal hydride systems, predicting thermodynamic properties and hydrogen release conditions from PhD research data | Python, scikit-learn, Materials Project |
 
 ---
 
