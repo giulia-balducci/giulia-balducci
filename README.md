@@ -43,8 +43,7 @@ now, with Python instead of lab glassware.
 
 ## 🛠️ Skills
 
-```python
-languages  = ["Python"]
+```languages  = ["Python"]
 libraries  = ["pandas", "numpy", "matplotlib", "seaborn",
               "scikit-learn", "SHAP", "RoBERTa", "VADER", "spaCy"]
 ml         = ["random forest", "logistic regression", "SVM",
@@ -52,7 +51,7 @@ ml         = ["random forest", "logistic regression", "SVM",
 deployment = ["AWS SageMaker", "Streamlit"]
 domain     = ["hydrogen storage", "materials informatics",
               "climate data", "oceanographic datasets",
-              "neutron diffraction", "Rietveld refinement (GSAS)"]
+              "conservation data"]
 tools      = ["Jupyter", "VSCode", "GitHub", "Claude Code"]
 learning   = ["SQL"]
 ```
